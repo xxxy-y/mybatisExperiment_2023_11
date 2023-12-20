@@ -1,7 +1,6 @@
 package cn.edu.tyut.mapper;
 
 import cn.edu.tyut.entity.Student;
-import lombok.Value;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
